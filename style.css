@@ -1,0 +1,31 @@
+h1{
+    color: chartreuse;
+   }
+   h2{
+    color: yellowgreen;
+   }
+   a,p{
+       border:solid;
+   }
+   .header{
+    background-color: rgb(123, 39, 202);
+    display:flex;
+    justify-content:space-around;
+}
+.grid{
+    background-color: rebeccapurple;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+}
+.footer{
+    background-color: indigo;
+    display:flex;
+    justify-content:flex-end;
+}
+p{
+    text-align: center;
+}
+.mid{
+    background-color: rgb(134, 38, 182);
+}
